@@ -13,6 +13,7 @@ from openpyxl.utils import get_column_letter
 import time
 import pandas as pd
 from datetime import datetime
+import sys
 import re
 import os
 from unidecode import unidecode
@@ -218,10 +219,10 @@ def is_product_match(driver, site_name, product_name):
                     if dimension_match:
                         score += 5  # Aumenta o peso para correspondência de dimensões
                     else:
-                        score -= 3  # Penaliza fortemente se as dimensões não corresponderem
+                        score -= 2  # Penaliza fortemente se as dimensões não corresponderem
 
                 if len(product_keywords_list) > 3:
-                    if keyword_count / len(product_keywords_list) >= 0.75 and score / product_keyword_score >= 0.7:
+                    if keyword_count / len(product_keywords_list) >= 0.75 and score / product_keyword_score >= 0.75:
                         matched_elements.append((card, score))
                 else:
                     if keyword_count / len(product_keywords_list) >= 0.65 and score / product_keyword_score >= 0.65:
@@ -414,6 +415,25 @@ def prepare_historical_data(results_df, site_info):
     return historical_data
 
 def save_to_excel(file_path, data, sheet_name, mode='a', if_sheet_exists='overlay', index=False):
+    # Extrair a data dos novos dados
+    if 'Data' in data.columns:
+        new_data_date = data['Data'].iloc[0]
+    else:
+        new_data_date = pd.to_datetime('today').strftime('%d/%m/%y')
+    
+    try:
+        # Carregar dados existentes na aba "Histórico"
+        existing_data = pd.read_excel(file_path, sheet_name=sheet_name)
+        
+        # Filtrar os dados existentes para remover linhas com a mesma data que os novos dados
+        existing_data = existing_data[existing_data['Data'] != new_data_date]
+
+        # Concatenar os dados novos com os dados existentes filtrados
+        combined_data = pd.concat([existing_data, data], ignore_index=True)
+    except (FileNotFoundError, ValueError):
+        # Se o arquivo ou a aba não existir, usa apenas os novos dados
+        combined_data = data
+    
     with pd.ExcelWriter(file_path, engine='openpyxl', mode=mode, if_sheet_exists=if_sheet_exists) as writer:
         data.to_excel(writer, sheet_name=sheet_name, index=index)
 
@@ -671,10 +691,15 @@ def write_log_to_file(message, log_file="search_logs.txt"):
         file.writelines(logs)
 
 def main(file_path, site_info, stop_event, driver, search_opt):
-    #create_gui()
     #driver = initialize_driver() 
     try:
-        start_search(file_path, site_info, driver, stop_event, search_opt)
+        expiration_date = "2024-11-29"
+        current_date = datetime.now().strftime("%Y-%m-%d")
+        if current_date > expiration_date:
+            print("O período de avaliação expirou. Entre em contato para obter a versão completa.")
+            sys.exit()
+        else:
+            start_search(file_path, site_info, driver, stop_event, search_opt)
     finally:
         driver.quit()  # Garante que o driver seja fechado no final, independentemente de interrupções 
 
