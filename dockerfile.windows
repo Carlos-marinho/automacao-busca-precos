@@ -1,0 +1,12 @@
+FROM python:3.9-slim
+
+# Instale dependências necessárias para Windows
+RUN apt-get update && apt-get install -y wine
+RUN pip install pyinstaller
+
+# Copie o projeto para o contêiner
+WORKDIR /app
+COPY . .
+
+# Comando padrão para rodar o PyInstaller
+CMD ["pyinstaller", "--onefile", "--noconsole", "script.py"]

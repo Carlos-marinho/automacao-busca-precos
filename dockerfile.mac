@@ -1,0 +1,18 @@
+FROM python:3.9-slim
+
+# Instale dependências do PyInstaller
+RUN apt-get update && apt-get install -y \
+    gcc \
+    libffi-dev \
+    libssl-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+# Instale o PyInstaller
+RUN pip install pyinstaller
+
+# Copie o código para o contêiner
+WORKDIR /app
+COPY . .
+
+# Comando para gerar o executável
+CMD ["pyinstaller", "--onefile", "app.py"]

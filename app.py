@@ -5,6 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException
+from webdriver_manager.chrome import ChromeDriverManager
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from tkinter.scrolledtext import ScrolledText
@@ -33,22 +34,18 @@ def initialize_driver(max_retries=3, timeout=30):
             '--disable-dev-shm-usage',
             '--disable-software-rasterizer',
             '--disable-extensions',
-            '--disable-popup-blocking',
-            '--disable-gpu',
             '--ignore-certificate-errors',
             '--blink-settings=imagesEnabled=false']
 
     for argument in arguments:
         options.add_argument(argument)
 
-    #service = Service(executable_path="/path/to/chromedriver")  # Update this path to your chromedriver
-    #driver = webdriver.Chrome(service=service, options=options)
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=options)
+
     retries = 0
 
     while retries < max_retries:
-        try:        
-            driver = webdriver.Chrome(options=options)
-            
+        try:
             driver.set_page_load_timeout(timeout)
 
             print(f"Driver iniciado com sucesso na tentativa {retries + 1}")
@@ -230,7 +227,7 @@ def is_product_match(driver, site_name, product_name):
 
                 print(f'\nEncontrado {description_text} - {keyword_count} palavras correspondentes - Pontuação {score}')
                 print(f'Dimensões esperadas: {expected_dimensions}\nDimensões encontradas: {found_dimensions}')
-                print(f'Preço R$ {price.strip(' R$ un m²').replace(',','.')}')
+                print(f'Preço R$ {price.strip(" R$ un m²").replace(",",".")}')
                 
             
             except Exception as e:
@@ -681,7 +678,7 @@ def write_log_to_file(message, log_file="search_logs.txt"):
     logs.append(message + "\n")
 
     # Mantém somente os logs das últimas três buscas
-    if logs.count("Inicio da Busca") > 3:
+    if logs.count("Inicio da Busca:") > 3:
         # Encontra o índice da quarta busca mais antiga e remove as anteriores
         start_indices = [i for i, line in enumerate(logs) if line.startswith("Inicio da Busca")]
         logs = logs[start_indices[1]:]  # Mantém os últimos três logs de busca
