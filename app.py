@@ -373,7 +373,10 @@ def process_products(product_list, site_info, driver, stop_event, search_opt):
                 print("Busca interrompida pelo usuário. Salvando dados até o momento e encerrando...")
                 break
             
-            product_name = product 
+            product_name = product.strip()
+
+            if product_name == '':
+                continue
 
             product_prices = {"Descrição": product_name}
 
@@ -472,9 +475,16 @@ def start_search(file_path, site_info, driver, stop_event, search_opt):
     
     elif search_opt == 'descricao':
         product_list = file_path
-        print("Iniciando a busca de preços...")
+        print("Iniciando a busca de preços...") 
         price_results = process_products(product_list, site_info, driver, stop_event, search_opt)
-        print(price_results)
+        print("\n\nResultados encontrados:")
+        for result in price_results:
+            print(f'\nDescrição: {result["Descrição"].capitalize()}\n')
+            print(f'Leroy Merlin: R$ {result["leroymerlin"]}')
+            print(f'Chatuba: R$ {result["chatuba"]}')
+            print(f'Obramax: R$ {result["obramax"]}')
+            print(f'Amoedo: R$ {result["amoedo"]}')
+            print(f'Sepa: R$ {result["sepa"]}\n')
 
     
 
@@ -573,12 +583,12 @@ def start_gui():
                 messagebox.showwarning("Aviso", "Por favor, selecione um arquivo Excel antes de iniciar.")
                 start_button.config(state=tk.NORMAL)
         elif search_mode == 'descricao':
-            descriptions = description_input.get().strip()
+            descriptions = description_input.get()
 
             if ";" in descriptions:
-                descriptions = descriptions.split(';')
+                descriptions = descriptions.strip().split(';')
             else:
-                descriptions = [descriptions]  # Se não houver ";", trata a entrada como um único item
+                descriptions = [descriptions.strip()]  # Se não houver ";", trata a entrada como um único item
 
             if descriptions:
                 # Inicia a thread de busca

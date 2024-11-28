@@ -69,7 +69,19 @@ products = [
     "CAIXA GORDURA 40 X 41 X 41 PRETA STAND C/CESTO METASUL",
 ]
 
-for product in products:
-    #print(f'Dimensões para "{product}": {extract_dimensions(product)}\n')
-    print(f'Nome do produto ajustado: {adjust_product_name(product)}')
-    
+results = [{'Descrição': 'porcelanato delta avorio 62x62', 'leroymerlin': 'N/A', 'chatuba': 58.5, 'obramax': 'N/A', 'amoedo': 69.9, 'sepa': 'N/A'}]
+
+
+# for product in products:
+#     #print(f'Dimensões para "{product}": {extract_dimensions(product)}\n')
+#     print(f'Nome do produto ajustado: {adjust_product_name(product)}')
+
+
+for result in results:
+    print(result)
+    print(f'\nDescrição: {result["Descrição"].capitalize()}\n')
+    print(f'Leroy Merlin: {result["leroymerlin"]}')
+    print(f'Chatuba: {result["chatuba"]}')
+    print(f'Obramax: {result["obramax"]}')
+    print(f'Amoedo: {result["amoedo"]}')
+    print(f'Sepa: {result["sepa"]}\n')

@@ -41604,3 +41604,1801 @@ Tempo total de execução: 88.47 segundos
 
 Processo concluído com sucesso!
 Busca concluída com sucesso!
+Inicio da Busca: 28/11/2024 12:15
+Driver iniciado com sucesso na tentativa 1
+Carregando lista de produtos...
+Iniciando a busca de preços...
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato cimentício acetinado borda reta interno 60x60cm cemento grigio biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 54.21
+
+Encontrado porcelanato cimentício acetinado borda reta interno 90x90cm cemento grigio biancogres - 3 palavras correspondentes - Pontuação 5
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 93.91
+
+Encontrado porcelanato cimentício acetinado borda reta externo 60x60cm cemento grigio biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 69.90
+
+Encontrado porcelanato cimentício acetinado borda reta externo 90x90cm cemento grigio biancogres - 3 palavras correspondentes - Pontuação 5
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 96.73
+
+Encontrado porcelanato cimentício acetinado borda reta interno 60x60cm cemento biancogres - 3 palavras correspondentes - Pontuação 12
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 61.01
+
+Encontrado revestimento interno acetinado borda reta 45x90cm marmo grigio biancogres - 2 palavras correspondentes - Pontuação 3
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[45.0, 90.0]]
+Preço R$ 96.73
+
+Encontrado porcelanato cimentício acetinado borda reta externo 90x90cm cemento grafite biancogres - 2 palavras correspondentes - Pontuação 3
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 106.13
+
+Encontrado porcelanato cimentício acetinado borda reta interno 90x90cm cemento grafite biancogres - 2 palavras correspondentes - Pontuação 3
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 109.89
+
+Checando preços...
+
+Loja: leroymerlin
+Produto: cemento grigio 60x60 biancogres
+Menor Preço encontrado: R$54.21
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato biancogres cemento grigio acetinado 60x60cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 59.50
+
+Encontrado porcelanato biancogres cemento grigio 60x60cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 66.90
+
+Checando preços...
+
+Loja: chatuba
+Produto: cemento grigio 60x60 biancogres
+Menor Preço encontrado: R$59.5
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato antique retificado granilhado marrom 30x120cm 2,27m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[30.0, 120.0], [227.0]]
+Preço R$ 79.90
+
+Encontrado porcelanato quartzita retificado granilhado bege 61x61cm 1,87m2 - 0 palavras correspondentes - Pontuação 5
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[61.0, 61.0], [187.0]]
+Preço R$ 49.90
+
+Encontrado piso naturale retificado acetinado marrom 23x100cm 2,30m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[23.0, 100.0], [230.0]]
+Preço R$ 36.90
+
+Encontrado porcelanato york retificado acetinado bege 121x121cm 2,93m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[121.0, 121.0], [293.0]]
+Preço R$ 109.00
+
+Encontrado porcelanato pulpis brown retificado acetinado marrom 72x72cm 1,55m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[72.0, 72.0], [155.0]]
+Preço R$ 49.90
+
+Encontrado piso 70383 bold abs bege 70x70cm 3,50m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[70.0, 70.0], [350.0]]
+Preço R$ 24.90
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato 60x60cm cemento grigio acetinado retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 56.90
+
+
+Encontrado porcelanato 60x60 cemento grigio ad4 aspero retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 66.41
+
+
+Checando preços...
+
+Loja: amoedo
+Produto: cemento grigio 60x60 biancogres
+Menor Preço encontrado: R$56.9
+
+Erro no site sepa produto cemento grigio 60x60 biancogres não encontrado
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto  carvalho natural 26x106 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto  carvalho natural 26x106 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto  carvalho natural 26x106 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto  carvalho natural 26x106 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+Erro no site sepa produto  carvalho natural 26x106 biancogres não encontrado
+[{'Descrição': 'cemento grigio 60x60 biancogres', 'leroymerlin': 54.21, 'chatuba': 59.5, 'obramax': 'N/A', 'amoedo': 56.9, 'sepa': 'N/A'}, {'Descrição': ' carvalho natural 26x106 biancogres', 'leroymerlin': 'N/A', 'chatuba': 'N/A', 'obramax': 'N/A', 'amoedo': 'N/A', 'sepa': 'N/A'}]
+
+Descrição: Cemento grigio 60x60 biancogres
+
+Leroy Merlin: 54.21
+Chatuba: 59.5
+Obramax: N/A
+Amoedo: 56.9
+Sepa: N/A
+
+
+Descrição:  carvalho natural 26x106 biancogres
+
+Leroy Merlin: N/A
+Chatuba: N/A
+Obramax: N/A
+Amoedo: N/A
+Sepa: N/A
+
+
+Tempo total de execução: 158.93 segundos
+
+Processo concluído com sucesso!
+Busca concluída com sucesso!
+Inicio da Busca: 28/11/2024 12:18
+Driver iniciado com sucesso na tentativa 1
+Carregando lista de produtos...
+Iniciando a busca de preços...
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato amadeirado acetinado borda reta interno 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 90.15
+
+Encontrado porcelanato amadeirado acetinado borda reta externo 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 101.43
+
+Encontrado porta sanfonada pvc carvalho natural 2,10x0,85cm artens - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.1, 0.85]]
+Preço R$ 262.90
+
+Encontrado revestimento swissclic frisado carvalho 1380 x 187 x 10 mm em caixa - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[138.0, 18.7, 1.0]]
+Preço R$ 1108.05
+
+Encontrado cadeira desmontável gaudí carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado cadeira desmontável fit carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado fita de borda pvc carvalho natural 22mm x 20m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [2000.0]]
+Preço R$ 38.60
+
+Encontrado fita de borda pvc carvalho natural 22mm x 300m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [30000.0]]
+Preço R$ 468
+
+Checando preços...
+
+Loja: leroymerlin
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$90.15
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato biancogres acetinado carvalho natural 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Encontrado porcelanato biancogres carvalho natural externo 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Checando preços...
+
+Loja: chatuba
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$85.5
+Interrupção solicitada. Salvando dados até o momento e encerrando...
+
+Erro no site obramax produto carvalho natural 26x106 biancogres não encontrado
+
+Erro no site amoedo produto carvalho natural 26x106 biancogres não encontrado
+
+Erro no site sepa produto carvalho natural 26x106 biancogres não encontrado
+[{'Descrição': 'carvalho natural 26x106 biancogres', 'leroymerlin': 90.15, 'chatuba': 85.5, 'obramax': 'N/A', 'amoedo': 'N/A', 'sepa': 'N/A'}]
+
+Descrição: Carvalho natural 26x106 biancogres
+
+Leroy Merlin: 90.15
+Chatuba: 85.5
+Obramax: N/A
+Amoedo: N/A
+Sepa: N/A
+
+
+Tempo total de execução: 36.65 segundos
+
+Processo concluído com sucesso!
+Busca concluída com sucesso!
+Inicio da Busca: 28/11/2024 12:19
+Driver iniciado com sucesso na tentativa 1
+Carregando lista de produtos...
+Iniciando a busca de preços...
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato amadeirado acetinado borda reta interno 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 90.15
+
+Encontrado porcelanato amadeirado acetinado borda reta externo 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 101.43
+
+Encontrado porta sanfonada pvc carvalho natural 2,10x0,85cm artens - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.1, 0.85]]
+Preço R$ 262.90
+
+Encontrado revestimento swissclic frisado carvalho 1380 x 187 x 10 mm em caixa - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[138.0, 18.7, 1.0]]
+Preço R$ 1108.05
+
+Encontrado cadeira desmontável gaudí carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado cadeira desmontável fit carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado fita de borda pvc carvalho natural 22mm x 20m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [2000.0]]
+Preço R$ 38.60
+
+Encontrado fita de borda pvc carvalho natural 22mm x 300m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [30000.0]]
+Preço R$ 468
+
+Checando preços...
+
+Loja: leroymerlin
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$90.15
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato biancogres acetinado carvalho natural 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Encontrado porcelanato biancogres carvalho natural externo 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Checando preços...
+
+Loja: chatuba
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$85.5
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato antique retificado granilhado marrom 30x120cm 2,27m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[30.0, 120.0], [227.0]]
+Preço R$ 79.90
+
+Encontrado porcelanato quartzita retificado granilhado bege 61x61cm 1,87m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[61.0, 61.0], [187.0]]
+Preço R$ 49.90
+
+Encontrado piso naturale retificado acetinado marrom 23x100cm 2,30m2 - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[23.0, 100.0], [230.0]]
+Preço R$ 36.90
+
+Encontrado porcelanato york retificado acetinado bege 121x121cm 2,93m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[121.0, 121.0], [293.0]]
+Preço R$ 109.00
+
+Encontrado porcelanato pulpis brown retificado acetinado marrom 72x72cm 1,55m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[72.0, 72.0], [155.0]]
+Preço R$ 49.90
+
+Encontrado piso 70383 bold abs bege 70x70cm 3,50m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[70.0, 70.0], [350.0]]
+Preço R$ 24.90
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato 26x106 carvalho natural acetinado retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 78.76
+
+
+Encontrado porcelanato 26x106 carvalho natural marrom externo retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 80.66
+
+
+Checando preços...
+
+Loja: amoedo
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$78.76
+
+Erro no site sepa produto carvalho natural 26x106 biancogres não encontrado
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto  cemento grigio 60x60 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto  cemento grigio 60x60 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto  cemento grigio 60x60 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto  cemento grigio 60x60 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+Erro no site sepa produto  cemento grigio 60x60 biancogres não encontrado
+[{'Descrição': 'carvalho natural 26x106 biancogres', 'leroymerlin': 90.15, 'chatuba': 85.5, 'obramax': 'N/A', 'amoedo': 78.76, 'sepa': 'N/A'}, {'Descrição': ' cemento grigio 60x60 biancogres', 'leroymerlin': 'N/A', 'chatuba': 'N/A', 'obramax': 'N/A', 'amoedo': 'N/A', 'sepa': 'N/A'}]
+
+Descrição: Carvalho natural 26x106 biancogres
+
+Leroy Merlin: 90.15
+Chatuba: 85.5
+Obramax: N/A
+Amoedo: 78.76
+Sepa: N/A
+
+
+Descrição:  cemento grigio 60x60 biancogres
+
+Leroy Merlin: N/A
+Chatuba: N/A
+Obramax: N/A
+Amoedo: N/A
+Sepa: N/A
+
+
+Tempo total de execução: 157.70 segundos
+
+Processo concluído com sucesso!
+Busca concluída com sucesso!
+Inicio da Busca: 28/11/2024 12:30
+Driver iniciado com sucesso na tentativa 1
+Carregando lista de produtos...
+Iniciando a busca de preços...
+['carvalho natural 26x106 biancogres', ' cemento grigio 60x60 biancogres']
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato amadeirado acetinado borda reta interno 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 90.15
+
+Encontrado porcelanato amadeirado acetinado borda reta externo 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 101.43
+
+Encontrado porta sanfonada pvc carvalho natural 2,10x0,85cm artens - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.1, 0.85]]
+Preço R$ 262.90
+
+Encontrado revestimento swissclic frisado carvalho 1380 x 187 x 10 mm em caixa - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[138.0, 18.7, 1.0]]
+Preço R$ 1108.05
+
+Encontrado cadeira desmontável gaudí carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado cadeira desmontável fit carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado fita de borda pvc carvalho natural 22mm x 20m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [2000.0]]
+Preço R$ 38.60
+
+Encontrado fita de borda pvc carvalho natural 22mm x 300m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [30000.0]]
+Preço R$ 468
+
+Checando preços...
+
+Loja: leroymerlin
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$90.15
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato biancogres acetinado carvalho natural 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Encontrado porcelanato biancogres carvalho natural externo 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Checando preços...
+
+Loja: chatuba
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$85.5
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato antique retificado granilhado marrom 30x120cm 2,27m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[30.0, 120.0], [227.0]]
+Preço R$ 79.90
+
+Encontrado porcelanato quartzita retificado granilhado bege 61x61cm 1,87m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[61.0, 61.0], [187.0]]
+Preço R$ 49.90
+
+Encontrado piso naturale retificado acetinado marrom 23x100cm 2,30m2 - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[23.0, 100.0], [230.0]]
+Preço R$ 36.90
+
+Encontrado porcelanato york retificado acetinado bege 121x121cm 2,93m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[121.0, 121.0], [293.0]]
+Preço R$ 109.00
+
+Encontrado porcelanato pulpis brown retificado acetinado marrom 72x72cm 1,55m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[72.0, 72.0], [155.0]]
+Preço R$ 49.90
+
+Encontrado piso 70383 bold abs bege 70x70cm 3,50m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[70.0, 70.0], [350.0]]
+Preço R$ 24.90
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato 26x106 carvalho natural acetinado retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 78.76
+
+
+Encontrado porcelanato 26x106 carvalho natural marrom externo retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 80.66
+
+
+Checando preços...
+
+Loja: amoedo
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$78.76
+
+Erro no site sepa produto carvalho natural 26x106 biancogres não encontrado
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto  cemento grigio 60x60 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto  cemento grigio 60x60 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto  cemento grigio 60x60 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto  cemento grigio 60x60 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Interrupção solicitada. Salvando dados até o momento e encerrando...
+
+Erro no site sepa produto  cemento grigio 60x60 biancogres não encontrado
+[{'Descrição': 'carvalho natural 26x106 biancogres', 'leroymerlin': 90.15, 'chatuba': 85.5, 'obramax': 'N/A', 'amoedo': 78.76, 'sepa': 'N/A'}, {'Descrição': ' cemento grigio 60x60 biancogres', 'leroymerlin': 'N/A', 'chatuba': 'N/A', 'obramax': 'N/A', 'amoedo': 'N/A', 'sepa': 'N/A'}]
+
+Descrição: Carvalho natural 26x106 biancogres
+
+Leroy Merlin: 90.15
+Chatuba: 85.5
+Obramax: N/A
+Amoedo: 78.76
+Sepa: N/A
+
+
+Descrição:  cemento grigio 60x60 biancogres
+
+Leroy Merlin: N/A
+Chatuba: N/A
+Obramax: N/A
+Amoedo: N/A
+Sepa: N/A
+
+
+Tempo total de execução: 129.87 segundos
+
+Processo concluído com sucesso!
+Busca concluída com sucesso!
+Inicio da Busca: 28/11/2024 12:36
+Driver iniciado com sucesso na tentativa 1
+Carregando lista de produtos...
+Iniciando a busca de preços...
+['carvalho natural 26x106 biancogres', ' cemento grigio 60x60 biancogres']
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato amadeirado acetinado borda reta interno 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 90.15
+
+Encontrado porcelanato amadeirado acetinado borda reta externo 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 101.43
+
+Encontrado porta sanfonada pvc carvalho natural 2,10x0,85cm artens - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.1, 0.85]]
+Preço R$ 262.90
+
+Encontrado revestimento swissclic frisado carvalho 1380 x 187 x 10 mm em caixa - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[138.0, 18.7, 1.0]]
+Preço R$ 1108.05
+
+Encontrado cadeira desmontável gaudí carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado cadeira desmontável fit carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado fita de borda pvc carvalho natural 22mm x 20m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [2000.0]]
+Preço R$ 38.60
+
+Encontrado fita de borda pvc carvalho natural 22mm x 300m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [30000.0]]
+Preço R$ 468
+
+Checando preços...
+
+Loja: leroymerlin
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$90.15
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato biancogres acetinado carvalho natural 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Encontrado porcelanato biancogres carvalho natural externo 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Checando preços...
+
+Loja: chatuba
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$85.5
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato antique retificado granilhado marrom 30x120cm 2,27m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[30.0, 120.0], [227.0]]
+Preço R$ 79.90
+
+Encontrado porcelanato quartzita retificado granilhado bege 61x61cm 1,87m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[61.0, 61.0], [187.0]]
+Preço R$ 49.90
+
+Encontrado piso naturale retificado acetinado marrom 23x100cm 2,30m2 - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[23.0, 100.0], [230.0]]
+Preço R$ 36.90
+
+Encontrado porcelanato york retificado acetinado bege 121x121cm 2,93m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[121.0, 121.0], [293.0]]
+Preço R$ 109.00
+
+Encontrado porcelanato pulpis brown retificado acetinado marrom 72x72cm 1,55m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[72.0, 72.0], [155.0]]
+Preço R$ 49.90
+
+Encontrado piso 70383 bold abs bege 70x70cm 3,50m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[70.0, 70.0], [350.0]]
+Preço R$ 24.90
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato 26x106 carvalho natural acetinado retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 78.76
+
+
+Encontrado porcelanato 26x106 carvalho natural marrom externo retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 80.66
+
+
+Checando preços...
+
+Loja: amoedo
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$78.76
+
+Erro no site sepa produto carvalho natural 26x106 biancogres não encontrado
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto  cemento grigio 60x60 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto  cemento grigio 60x60 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto  cemento grigio 60x60 biancogres...
+Score: 10
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Interrupção solicitada. Salvando dados até o momento e encerrando...
+
+Erro no site amoedo produto  cemento grigio 60x60 biancogres não encontrado
+
+Erro no site sepa produto  cemento grigio 60x60 biancogres não encontrado
+
+Descrição: Carvalho natural 26x106 biancogres
+
+Leroy Merlin: 90.15
+Chatuba: 85.5
+Obramax: N/A
+Amoedo: 78.76
+Sepa: N/A
+
+
+Descrição:  cemento grigio 60x60 biancogres
+
+Leroy Merlin: N/A
+Chatuba: N/A
+Obramax: N/A
+Amoedo: N/A
+Sepa: N/A
+
+
+Tempo total de execução: 108.50 segundos
+
+Processo concluído com sucesso!
+Busca concluída com sucesso!
+Inicio da Busca: 28/11/2024 12:38
+Driver iniciado com sucesso na tentativa 1
+Carregando lista de produtos...
+Iniciando a busca de preços...
+['carvalho natural 26x106 biancogres', '']
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato amadeirado acetinado borda reta interno 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 90.15
+
+Encontrado porcelanato amadeirado acetinado borda reta externo 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 101.43
+
+Encontrado porta sanfonada pvc carvalho natural 2,10x0,85cm artens - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.1, 0.85]]
+Preço R$ 262.90
+
+Encontrado revestimento swissclic frisado carvalho 1380 x 187 x 10 mm em caixa - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[138.0, 18.7, 1.0]]
+Preço R$ 1108.05
+
+Encontrado cadeira desmontável gaudí carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado cadeira desmontável fit carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado fita de borda pvc carvalho natural 22mm x 20m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [2000.0]]
+Preço R$ 38.60
+
+Encontrado fita de borda pvc carvalho natural 22mm x 300m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [30000.0]]
+Preço R$ 468
+
+Checando preços...
+
+Loja: leroymerlin
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$90.15
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato biancogres acetinado carvalho natural 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Encontrado porcelanato biancogres carvalho natural externo 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Checando preços...
+
+Loja: chatuba
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$85.5
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato antique retificado granilhado marrom 30x120cm 2,27m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[30.0, 120.0], [227.0]]
+Preço R$ 79.90
+
+Encontrado porcelanato quartzita retificado granilhado bege 61x61cm 1,87m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[61.0, 61.0], [187.0]]
+Preço R$ 49.90
+
+Encontrado piso naturale retificado acetinado marrom 23x100cm 2,30m2 - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[23.0, 100.0], [230.0]]
+Preço R$ 36.90
+
+Encontrado porcelanato york retificado acetinado bege 121x121cm 2,93m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[121.0, 121.0], [293.0]]
+Preço R$ 109.00
+
+Encontrado porcelanato pulpis brown retificado acetinado marrom 72x72cm 1,55m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[72.0, 72.0], [155.0]]
+Preço R$ 49.90
+
+Encontrado piso 70383 bold abs bege 70x70cm 3,50m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[70.0, 70.0], [350.0]]
+Preço R$ 24.90
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato 26x106 carvalho natural acetinado retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 78.76
+
+
+Encontrado porcelanato 26x106 carvalho natural marrom externo retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 80.66
+
+
+Checando preços...
+
+Loja: amoedo
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$78.76
+
+Erro no site sepa produto carvalho natural 26x106 biancogres não encontrado
+
+Erro no site leroymerlin produto  não encontrado
+
+Erro no site chatuba produto  não encontrado
+
+Erro no site obramax produto  não encontrado
+
+Erro no site amoedo produto  não encontrado
+
+Erro no site sepa produto  não encontrado
+
+Descrição: Carvalho natural 26x106 biancogres
+
+Leroy Merlin: 90.15
+Chatuba: 85.5
+Obramax: N/A
+Amoedo: 78.76
+Sepa: N/A
+
+
+Descrição: 
+
+Leroy Merlin: N/A
+Chatuba: N/A
+Obramax: N/A
+Amoedo: N/A
+Sepa: N/A
+
+
+Tempo total de execução: 238.40 segundos
+
+Processo concluído com sucesso!
+Busca concluída com sucesso!
+Inicio da Busca: 28/11/2024 12:52
+Driver iniciado com sucesso na tentativa 1
+Carregando lista de produtos...
+Iniciando a busca de preços...
+['carvalho natural 26x106 biancogres', ' cemento grigio 60x60']
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato amadeirado acetinado borda reta interno 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 90.15
+
+Encontrado porcelanato amadeirado acetinado borda reta externo 26x106cm carvalho natural biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 101.43
+
+Encontrado porta sanfonada pvc carvalho natural 2,10x0,85cm artens - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.1, 0.85]]
+Preço R$ 262.90
+
+Encontrado revestimento swissclic frisado carvalho 1380 x 187 x 10 mm em caixa - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[138.0, 18.7, 1.0]]
+Preço R$ 1108.05
+
+Encontrado cadeira desmontável gaudí carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado cadeira desmontável fit carvalho natural - 2 palavras correspondentes - Pontuação 4
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: None
+Preço R$ 225
+
+Encontrado fita de borda pvc carvalho natural 22mm x 20m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [2000.0]]
+Preço R$ 38.60
+
+Encontrado fita de borda pvc carvalho natural 22mm x 300m proadec - 2 palavras correspondentes - Pontuação 2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[2.2], [30000.0]]
+Preço R$ 468
+
+Checando preços...
+
+Loja: leroymerlin
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$90.15
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato biancogres acetinado carvalho natural 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Encontrado porcelanato biancogres carvalho natural externo 26x106cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Checando preços...
+
+Loja: chatuba
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$85.5
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato antique retificado granilhado marrom 30x120cm 2,27m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[30.0, 120.0], [227.0]]
+Preço R$ 79.90
+
+Encontrado porcelanato quartzita retificado granilhado bege 61x61cm 1,87m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[61.0, 61.0], [187.0]]
+Preço R$ 49.90
+
+Encontrado piso naturale retificado acetinado marrom 23x100cm 2,30m2 - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[23.0, 100.0], [230.0]]
+Preço R$ 36.90
+
+Encontrado porcelanato york retificado acetinado bege 121x121cm 2,93m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[121.0, 121.0], [293.0]]
+Preço R$ 109.00
+
+Encontrado porcelanato pulpis brown retificado acetinado marrom 72x72cm 1,55m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[72.0, 72.0], [155.0]]
+Preço R$ 49.90
+
+Encontrado piso 70383 bold abs bege 70x70cm 3,50m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[70.0, 70.0], [350.0]]
+Preço R$ 24.90
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto carvalho natural 26x106 biancogres...
+Score: 9
+
+Encontrado porcelanato 26x106 carvalho natural acetinado retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 78.76
+
+
+Encontrado porcelanato 26x106 carvalho natural marrom externo retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 80.66
+
+
+Checando preços...
+
+Loja: amoedo
+Produto: carvalho natural 26x106 biancogres
+Menor Preço encontrado: R$78.76
+
+Erro no site sepa produto carvalho natural 26x106 biancogres não encontrado
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto  cemento grigio 60x60...
+Score: 9
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto  cemento grigio 60x60...
+Score: 9
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto  cemento grigio 60x60...
+Score: 9
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto  cemento grigio 60x60...
+Score: 9
+Erro ao iterar card - Produto/preço indisponível string index out of range
+Erro ao iterar card - Produto/preço indisponível string index out of range
+
+Erro no site sepa produto  cemento grigio 60x60 não encontrado
+
+Descrição: Carvalho natural 26x106 biancogres
+
+Leroy Merlin: 90.15
+Chatuba: 85.5
+Obramax: N/A
+Amoedo: 78.76
+Sepa: N/A
+
+
+Descrição:  cemento grigio 60x60
+
+Leroy Merlin: N/A
+Chatuba: N/A
+Obramax: N/A
+Amoedo: N/A
+Sepa: N/A
+
+
+Tempo total de execução: 164.35 segundos
+
+Processo concluído com sucesso!
+Busca concluída com sucesso!
+Inicio da Busca: 28/11/2024 12:57
+Driver iniciado com sucesso na tentativa 1
+Carregando lista de produtos...
+Iniciando a busca de preços...
+cemento grigio 60x60 biancogres
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato cimentício acetinado borda reta interno 60x60cm cemento grigio biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 54.21
+
+Encontrado porcelanato cimentício acetinado borda reta interno 90x90cm cemento grigio biancogres - 3 palavras correspondentes - Pontuação 5
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 93.91
+
+Encontrado porcelanato cimentício acetinado borda reta externo 60x60cm cemento grigio biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 69.90
+
+Encontrado porcelanato cimentício acetinado borda reta externo 90x90cm cemento grigio biancogres - 3 palavras correspondentes - Pontuação 5
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 96.73
+
+Encontrado porcelanato cimentício acetinado borda reta interno 60x60cm cemento biancogres - 3 palavras correspondentes - Pontuação 12
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 61.01
+
+Encontrado revestimento interno acetinado borda reta 45x90cm marmo grigio biancogres - 2 palavras correspondentes - Pontuação 3
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[45.0, 90.0]]
+Preço R$ 96.73
+
+Encontrado porcelanato cimentício acetinado borda reta externo 90x90cm cemento grafite biancogres - 2 palavras correspondentes - Pontuação 3
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 106.13
+
+Encontrado porcelanato cimentício acetinado borda reta interno 90x90cm cemento grafite biancogres - 2 palavras correspondentes - Pontuação 3
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 109.89
+
+Checando preços...
+
+Loja: leroymerlin
+Produto: cemento grigio 60x60 biancogres
+Menor Preço encontrado: R$54.21
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato biancogres cemento grigio acetinado 60x60cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 59.50
+
+Encontrado porcelanato biancogres cemento grigio 60x60cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 66.90
+
+Checando preços...
+
+Loja: chatuba
+Produto: cemento grigio 60x60 biancogres
+Menor Preço encontrado: R$59.5
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato antique retificado granilhado marrom 30x120cm 2,27m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[30.0, 120.0], [227.0]]
+Preço R$ 79.90
+
+Encontrado porcelanato quartzita retificado granilhado bege 61x61cm 1,87m2 - 0 palavras correspondentes - Pontuação 5
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[61.0, 61.0], [187.0]]
+Preço R$ 49.90
+
+Encontrado piso naturale retificado acetinado marrom 23x100cm 2,30m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[23.0, 100.0], [230.0]]
+Preço R$ 36.90
+
+Encontrado porcelanato york retificado acetinado bege 121x121cm 2,93m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[121.0, 121.0], [293.0]]
+Preço R$ 109.00
+
+Encontrado porcelanato pulpis brown retificado acetinado marrom 72x72cm 1,55m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[72.0, 72.0], [155.0]]
+Preço R$ 49.90
+
+Encontrado piso 70383 bold abs bege 70x70cm 3,50m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[70.0, 70.0], [350.0]]
+Preço R$ 24.90
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato 60x60cm cemento grigio acetinado retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 56.90
+
+
+Encontrado porcelanato 60x60 cemento grigio ad4 aspero retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 66.41
+
+
+Checando preços...
+
+Loja: amoedo
+Produto: cemento grigio 60x60 biancogres
+Menor Preço encontrado: R$56.9
+
+Erro no site sepa produto cemento grigio 60x60 biancogres não encontrado
+carvalho natural 26x106
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto carvalho natural 26x106...
+Score: 6
+
+Encontrado porcelanato amadeirado acetinado borda reta interno 26x106cm carvalho natural biancogres - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 90.15
+
+Encontrado porcelanato amadeirado acetinado borda reta externo 26x106cm carvalho natural biancogres - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 101.43
+
+Checando preços...
+
+Loja: leroymerlin
+Produto: carvalho natural 26x106
+Menor Preço encontrado: R$90.15
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto carvalho natural 26x106...
+Score: 6
+
+Encontrado porcelanato biancogres acetinado carvalho natural 26x106cm - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Encontrado porcelanato biancogres carvalho natural externo 26x106cm - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 85.50
+
+Checando preços...
+
+Loja: chatuba
+Produto: carvalho natural 26x106
+Menor Preço encontrado: R$85.5
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto carvalho natural 26x106...
+Score: 6
+
+Encontrado painel hdf natural 2750x1850x2,8mm - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[275.0, 185.0, 0.28]]
+Preço R$ 49.90
+
+Encontrado painel mdf bp 2 faces carvalho treviso 2750x1850x15mm - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[275.0, 185.0, 1.5]]
+Preço R$ 309.90
+
+Encontrado rejunte cerâmica branco 5kg quartzolit - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[5.0]]
+Preço R$ 30.59
+
+Encontrado telha sanduíche metálica galvalume natural tr40 0,98x3m calhaforte - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[98.0, 300.0]]
+Preço R$ 478.90
+
+Encontrado smart resina primer multiuso elastment 3,6l drylevis - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[3.6]]
+Preço R$ 278.90
+
+Encontrado telha sanduíche metálica galvalume natural tr40 0,98x6m calhaforte - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[98.0, 600.0]]
+Preço R$ 1.029.50
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto carvalho natural 26x106...
+Score: 6
+
+Encontrado porcelanato 26x106 carvalho natural acetinado retificado biancogres - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 78.76
+
+
+Encontrado porcelanato 26x106 carvalho natural marrom externo retificado biancogres - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[26.0, 106.0]]
+Dimensões encontradas: [[26.0, 106.0]]
+Preço R$ 80.66
+
+
+Checando preços...
+
+Loja: amoedo
+Produto: carvalho natural 26x106
+Menor Preço encontrado: R$78.76
+
+Erro no site sepa produto carvalho natural 26x106 não encontrado
+
+Descrição: Cemento grigio 60x60 biancogres
+
+Leroy Merlin: 54.21
+Chatuba: 59.5
+Obramax: N/A
+Amoedo: 56.9
+Sepa: N/A
+
+
+Descrição: Carvalho natural 26x106
+
+Leroy Merlin: 90.15
+Chatuba: 85.5
+Obramax: N/A
+Amoedo: 78.76
+Sepa: N/A
+
+
+Tempo total de execução: 160.24 segundos
+
+Processo concluído com sucesso!
+Busca concluída com sucesso!
+Inicio da Busca: 28/11/2024 13:06
+Driver iniciado com sucesso na tentativa 1
+Carregando lista de produtos...
+Iniciando a busca de preços...
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto cemento grigio 60x60...
+Score: 6
+
+Encontrado porcelanato cimentício acetinado borda reta interno 60x60cm cemento grigio biancogres - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 54.21
+
+Encontrado porcelanato cimentício acetinado borda reta externo 60x60cm cemento grigio biancogres - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 69.90
+
+Checando preços...
+
+Loja: leroymerlin
+Produto: cemento grigio 60x60
+Menor Preço encontrado: R$54.21
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto cemento grigio 60x60...
+Score: 6
+
+Encontrado porcelanato biancogres cemento grigio acetinado 60x60cm - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 59.50
+
+Encontrado porcelanato biancogres cemento grigio 60x60cm - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 66.90
+
+Checando preços...
+
+Loja: chatuba
+Produto: cemento grigio 60x60
+Menor Preço encontrado: R$59.5
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto cemento grigio 60x60...
+Score: 6
+
+Encontrado painel mdf bp 2 faces linen grigio vel 2750x1850x15mm - 1 palavras correspondentes - Pontuação 0
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[275.0, 185.0, 1.5]]
+Preço R$ 309.90
+
+Encontrado maxim-ar 1 seção vmbor alumínio branco 60x60cm - 1 palavras correspondentes - Pontuação 7
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 159.90
+
+Encontrado janela basculante 1 seção vidro boreal alumínio branco 60x60cm - 1 palavras correspondentes - Pontuação 7
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 144.90
+
+Encontrado janela basculante 1 seção vidro boreal alumínio brilhante 60x60cm - 1 palavras correspondentes - Pontuação 7
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 134.90
+
+Encontrado alçapão para forro com tampa aço galvanizado 60x60cm multiperfil - 1 palavras correspondentes - Pontuação 7
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 101.90
+
+Encontrado janela basculante 1 seção linha vmbor alumínio preto 60x60cm - 1 palavras correspondentes - Pontuação 7
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 149.90
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto cemento grigio 60x60...
+Score: 6
+
+Encontrado porcelanato 60x60cm cemento grigio acetinado retificado biancogres - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 56.90
+
+
+Encontrado porcelanato 60x60 cemento grigio ad4 aspero retificado biancogres - 3 palavras correspondentes - Pontuação 11
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 66.41
+
+
+Checando preços...
+
+Loja: amoedo
+Produto: cemento grigio 60x60
+Menor Preço encontrado: R$56.9
+
+Erro no site sepa produto cemento grigio 60x60 não encontrado
+
+Descrição: Cemento grigio 60x60
+
+Leroy Merlin: R$ 54.21
+Chatuba: R$ 59.5
+Obramax: R$ N/A
+Amoedo: R$ 56.9
+Sepa: R$ N/A
+
+
+Tempo total de execução: 83.67 segundos
+
+Processo concluído com sucesso!
+Busca concluída com sucesso!
+Inicio da Busca: 28/11/2024 13:08
+Driver iniciado com sucesso na tentativa 1
+Carregando lista de produtos...
+Iniciando a busca de preços...
+
+------------------------------------------------------------
+
+Iniciando busca no site leroymerlin para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato cimentício acetinado borda reta interno 60x60cm cemento grigio biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 54.21
+
+Encontrado porcelanato cimentício acetinado borda reta interno 90x90cm cemento grigio biancogres - 3 palavras correspondentes - Pontuação 5
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 93.91
+
+Encontrado porcelanato cimentício acetinado borda reta externo 60x60cm cemento grigio biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 69.90
+
+Encontrado porcelanato cimentício acetinado borda reta externo 90x90cm cemento grigio biancogres - 3 palavras correspondentes - Pontuação 5
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 96.73
+
+Encontrado porcelanato cimentício acetinado borda reta interno 60x60cm cemento biancogres - 3 palavras correspondentes - Pontuação 12
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 61.01
+
+Encontrado revestimento interno acetinado borda reta 45x90cm marmo grigio biancogres - 2 palavras correspondentes - Pontuação 3
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[45.0, 90.0]]
+Preço R$ 96.73
+
+Encontrado porcelanato cimentício acetinado borda reta externo 90x90cm cemento grafite biancogres - 2 palavras correspondentes - Pontuação 3
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 106.13
+
+Encontrado porcelanato cimentício acetinado borda reta interno 90x90cm cemento grafite biancogres - 2 palavras correspondentes - Pontuação 3
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[90.0, 90.0]]
+Preço R$ 109.89
+
+Checando preços...
+
+Loja: leroymerlin
+Produto: cemento grigio 60x60 biancogres
+Menor Preço encontrado: R$54.21
+
+------------------------------------------------------------
+
+Iniciando busca no site chatuba para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato biancogres cemento grigio acetinado 60x60cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 59.50
+
+Encontrado porcelanato biancogres cemento grigio 60x60cm - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 66.90
+
+Checando preços...
+
+Loja: chatuba
+Produto: cemento grigio 60x60 biancogres
+Menor Preço encontrado: R$59.5
+
+------------------------------------------------------------
+
+Iniciando busca no site obramax para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato antique retificado granilhado marrom 30x120cm 2,27m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[30.0, 120.0], [227.0]]
+Preço R$ 79.90
+
+Encontrado porcelanato quartzita retificado granilhado bege 61x61cm 1,87m2 - 0 palavras correspondentes - Pontuação 5
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[61.0, 61.0], [187.0]]
+Preço R$ 49.90
+
+Encontrado piso naturale retificado acetinado marrom 23x100cm 2,30m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[23.0, 100.0], [230.0]]
+Preço R$ 36.90
+
+Encontrado porcelanato york retificado acetinado bege 121x121cm 2,93m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[121.0, 121.0], [293.0]]
+Preço R$ 109.00
+
+Encontrado porcelanato pulpis brown retificado acetinado marrom 72x72cm 1,55m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[72.0, 72.0], [155.0]]
+Preço R$ 49.90
+
+Encontrado piso 70383 bold abs bege 70x70cm 3,50m2 - 0 palavras correspondentes - Pontuação -2
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[70.0, 70.0], [350.0]]
+Preço R$ 24.90
+
+------------------------------------------------------------
+
+Iniciando busca no site amoedo para o produto cemento grigio 60x60 biancogres...
+Score: 9
+
+Encontrado porcelanato 60x60cm cemento grigio acetinado retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 56.90
+
+
+Encontrado porcelanato 60x60 cemento grigio ad4 aspero retificado biancogres - 4 palavras correspondentes - Pontuação 14
+Dimensões esperadas: [[60.0, 60.0]]
+Dimensões encontradas: [[60.0, 60.0]]
+Preço R$ 66.41
+
+
+Checando preços...
+
+Loja: amoedo
+Produto: cemento grigio 60x60 biancogres
+Menor Preço encontrado: R$56.9
+
+Erro no site sepa produto cemento grigio 60x60 biancogres não encontrado
+
+
+Resultado encontrado:
+
+Descrição: Cemento grigio 60x60 biancogres
+
+Leroy Merlin: R$ 54.21
+Chatuba: R$ 59.5
+Obramax: R$ N/A
+Amoedo: R$ 56.9
+Sepa: R$ N/A
+
+
+Tempo total de execução: 81.28 segundos
+
+Processo concluído com sucesso!
+Busca concluída com sucesso!
